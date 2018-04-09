@@ -1,0 +1,62 @@
+html,body{
+    height: 100%;
+}
+/* 设置高为100% */
+.full-height{
+    height: 100%;
+}
+.tittle{
+    text-align: center;
+    letter-spacing: 30px;
+    font-weight: bold;
+}
+
+/* 单个部门介绍页面 */
+/* 单个部门介绍页面左边 */
+.nav-left{
+    width: 100px;
+    height: 170px;
+    float: left;
+}
+.circle{
+    line-height: 100px;
+    text-align: center;
+    display: block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #E0FFFF;
+
+}
+.partment{
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* 单个部门页面右边 */
+.change-message{
+    position: absolute;
+    right: 10px;
+    top: 22px;
+}
+.detail{
+    margin-left: 110px;
+}
+.detail div{
+    text-align: center;
+    font-weight: bold;
+}
+.detail p{
+    line-height:1.42857143;
+}
+.partment-item{
+    position: relative;    
+    box-sizing: border-box;
+    padding: 20px; 
+    margin-bottom: 50px;
+    width: 100%;
+    box-shadow: 5px 5px 5px #888888;
+    background-color: white;
+}
+
